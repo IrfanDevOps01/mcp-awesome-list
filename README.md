@@ -1,4 +1,4 @@
-# 🚀 Awesome MCP Servers List — DevOps, Dev & QA (2025)
+# 🚀 Awesome MCP Servers List — DevOps, Dev & QA (2025-2026)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
