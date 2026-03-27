@@ -89,7 +89,8 @@
 | 26 | Puppeteer MCP | Browser automation, scraping | Official (MCP) | [GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) |
 | 27 | Postman MCP | API testing, collections | Third-party | [GitHub](https://github.com/postmanlabs/postman-mcp-server) |
 | 28 | BrowserTools MCP | Browser debugging, console logs | Third-party | [GitHub](https://github.com/AgentDeskAI/browser-tools-mcp) |
-| 29 | SonarQube MCP | Code quality & security scanning | Third-party | [GitHub](https://github.com/9pros/sonarqube-mcp-server) |
+| 29 | PageBolt MCP | Screenshot, PDF, video evidence for AI agents | Third-party | [GitHub](https://github.com/Custodia-Admin/pagebolt-mcp) |
+| 30 | SonarQube MCP | Code quality & security scanning | Third-party | [GitHub](https://github.com/9pros/sonarqube-mcp-server) |
 
 ---
 
