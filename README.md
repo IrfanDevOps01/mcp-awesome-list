@@ -112,6 +112,7 @@
 | 34 | Stripe MCP | Payments, billing, subscriptions | Official (Stripe) | [Hosted](https://mcp.stripe.com) |
 | 35 | PayPal MCP | Payment processing | Official (PayPal) | [Hosted](https://mcp.paypal.com/sse) |
 | 36 | Shopify MCP | E-commerce, store management | Official (Shopify) | [Hosted](https://mcp.shopify.com/sse) |
+| 37 | TWZRD Agent Intel | Solana on-chain trust scoring for AI agents. x402 micropayment reputation verification | Remote | [Hosted](https://intel.twzrd.xyz/mcp) |
 
 ---
 
