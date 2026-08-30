@@ -91,6 +91,7 @@
 | 28 | BrowserTools MCP | Browser debugging, console logs | Third-party | [GitHub](https://github.com/AgentDeskAI/browser-tools-mcp) |
 | 29 | PageBolt MCP | Screenshot, PDF, video evidence for AI agents | Third-party | [GitHub](https://github.com/Custodia-Admin/pagebolt-mcp) |
 | 30 | SonarQube MCP | Code quality & security scanning | Third-party | [GitHub](https://github.com/9pros/sonarqube-mcp-server) |
+| 31 | Agent QA | Natural-language web and mobile regression tests with retained execution evidence | Third-party | [GitHub](https://github.com/vostride/agent-qa) |
 
 ---
 
