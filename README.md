@@ -104,6 +104,8 @@
 | 33 | Notion MCP | Docs, wikis, project tracking | Official (Notion) | [GitHub](https://github.com/makenotion/notion-mcp-server) |
 
 ---
+| 42 | Statsnet MCP | World company background checks (registration, executives, courts, finances) | Remote | [GitHub](https://github.com/usenetstate/statsnet-mcp) / [Remote](https://statsnet.co/mcp) |
+
 
 ## 💰 Payments & E-Commerce
 
