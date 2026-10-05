@@ -124,6 +124,7 @@
 | 39 | Figma MCP | Design handoff, inspect designs | Official (Figma) | [GitHub](https://github.com/nichochar/figma-mcp) |
 | 40 | Fetch MCP | HTTP requests, API calls | Official (MCP) | [GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) |
 | 41 | Memory MCP | Persistent knowledge graph | Official (MCP) | [GitHub](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) |
+| 42 | Hyperconsciousness MCP (developer alpha) | Encrypted agent memory with scoped, expiring grants | Official (Hyperconsciousness) | [GitHub](https://github.com/louis030195/hyperconsciousness) |
 
 ---
 
