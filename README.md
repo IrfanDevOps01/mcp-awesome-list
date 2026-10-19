@@ -112,6 +112,7 @@
 | 34 | Stripe MCP | Payments, billing, subscriptions | Official (Stripe) | [Hosted](https://mcp.stripe.com) |
 | 35 | PayPal MCP | Payment processing | Official (PayPal) | [Hosted](https://mcp.paypal.com/sse) |
 | 36 | Shopify MCP | E-commerce, store management | Official (Shopify) | [Hosted](https://mcp.shopify.com/sse) |
+| 42 | Agent Payment Node | Local macOS CLI and stdio MCP payments with foreground owner approval for signing. | Official (Nuanu AI) | [GitHub](https://github.com/nuanu-ai/agent-payment-node) |
 
 ---
 
